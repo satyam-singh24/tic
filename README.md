@@ -20,7 +20,7 @@ For a smooth gaming experience, use Live Server in VS Code.
 🖥️ Live Demo
 Try out the Tic Tac Toe Game online here:
 
-🔗 Live Demo (Add deployed link here)
+🔗 Live Demo (https://satyam24-tic-tac-toe.netlify.app/)
 
 💡 Key Features :
 
